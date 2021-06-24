@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     }
 
     [SerializeField]
-    private float m_jumpPower = 10;
+    private float m_jumpPower = 5;
     public float jumpPower
     {
         get { return m_jumpPower; }

@@ -7,7 +7,7 @@ public class BlueRuner : PlayerController
 {
     private void Awake()
     {
-        jumpPower = 12;
+        jumpPower = 10;
         color = Color.blue;
     }
 
